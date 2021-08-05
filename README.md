@@ -2,6 +2,6 @@
 
 Sample GIT repository for Practise
 
-This line is added by Shankaar Base (baseshankaar@outlook.com)
+This line is added by Shankaar Base (baseshankar@outlook.com)
 
-Merge Conflict
+Shankaar-Base has added this line via a Pull Request
